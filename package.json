@@ -1,0 +1,18 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "Asadbek",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "superagent": "^8.1.2"
+  },
+  "description": " working,understanding,using asychronous javascript",
+  "keywords": [
+    "test"
+  ]
+}
